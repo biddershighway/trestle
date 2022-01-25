@@ -1,5 +1,3 @@
-require "sprockets/railtie"
-
 module Trestle
   class Engine < ::Rails::Engine
     isolate_namespace Trestle
